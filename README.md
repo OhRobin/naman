@@ -16,7 +16,7 @@ dependencies:
 
 ```sh
 git clone git@github.com:OhRobin/naman.git
-cd hardhat-boilerplate
+cd naman
 npm install
 ```
 
